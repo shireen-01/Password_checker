@@ -1,5 +1,4 @@
 import tkinter as tk
-from tkinter import ttk
 import pickle
 import numpy as np
 import pandas as pd
