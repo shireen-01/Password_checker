@@ -8,3 +8,6 @@ its strength as Weak, Moderate or Strong.
 - Run **app.py** file.
 - Password checker window will open.
 - Enter the password and click OK
+
+### Window
+![image](/images/window.png)
