@@ -11,3 +11,6 @@ its strength as Weak, Moderate or Strong.
 
 ### Window
 ![image](/images/window.png)
+
+### Demo
+![image](/images/demo.gif)
